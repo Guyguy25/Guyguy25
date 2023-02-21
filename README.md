@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### French developper.
+#### French developper. 🇫🇷
 
 ##### BIO
 
@@ -15,8 +15,8 @@
 - 📊 Database (mongodb, phpmyadmin ...);
 
 ##### SPEAK
-- 🇫🇷 French (native);
-- 🇬🇧 English (fluent);
+- 🥖 French (native);
+- 🌐 English (fluent);
 
 ##### STATS
 ![EsprIx GitHub stats](https://github-readme-stats.vercel.app/api?username=guyguy25&show_icons=true&theme=tokyonight)
