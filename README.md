@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### French developper. 🇫🇷
+#### French developer. 🇫🇷
 
 ##### BIO
 
