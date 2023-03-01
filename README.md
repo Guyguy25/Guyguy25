@@ -21,4 +21,4 @@
 
 ##### STATS
 ![EsprIx GitHub stats](https://github-readme-stats.vercel.app/api?username=guyguy25&show_icons=true&theme=tokyonight)
-![EsprIx GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=squarfiuz&show_icons=true&hide_border=true&theme=tokyonight&layout=compact)
+![EsprIx GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=guyguy25&show_icons=true&hide_border=true&theme=tokyonight&layout=compact)
