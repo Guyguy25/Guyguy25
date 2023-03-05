@@ -13,7 +13,7 @@
 
 - 💻 Front-end (react, vue, angular ...);
 - ⚙ Back-end (node, express ...);
-- 📊 Database (mongodb, phpmyadmin ...);
+- 📊 Database (mongodb, mysql ...);
 
 ##### SPEAK
 - 🥖 French (native);
