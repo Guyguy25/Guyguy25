@@ -11,9 +11,9 @@
 
 ##### SKILLS
 
-- 💻 Front-end (react, vue, angular ...);
+- 💻 Front-end (react, next, vue ...);
 - ⚙ Back-end (node, express ...);
-- 📊 Database (mongodb, mysql ...);
+- 📊 Database (mongodb, firebase, mysql ...);
 
 ##### SPEAK
 - 🥖 French (native);
