@@ -7,7 +7,7 @@
 - 📍 Lille, France;
 - ✨ Languages : `.html`, `.css`, `.js`, `.py`, `.php` ...;
 - 👨‍💻 Portoflio : https://guyguy.site
-- 📫 Contact **Guyguy#1731** on discord;
+- 📫 Contact **guxguy** on discord;
 
 ##### SKILLS
 
